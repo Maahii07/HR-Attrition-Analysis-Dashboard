@@ -44,7 +44,7 @@ A sample HR dataset in Excel format containing fields such as:
 
 ## 📷 Dashboard Preview
 
-![Dashboard Preview]
+![Dashboard Preview](https://github.com/Maahii07/HR-Attrition-Analysis-Dashboard/blob/main/Dashboard)
 
 ---
 
